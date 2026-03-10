@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Tell Google where to find your sitemap
-Sitemap: [https://sbfloristry.co.uk/sitemap.xml](https://sbfloristry.co.uk/sitemap.xml)
+Sitemap: https://sbfloristry.co.uk/sitemap.xml
