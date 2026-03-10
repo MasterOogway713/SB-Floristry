@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Tell Google where to find your sitemap
+
+Sitemap: https://www.google.com/search?q=https://sbfloristry.co.uk/sitemap.xml
